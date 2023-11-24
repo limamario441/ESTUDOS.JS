@@ -1,0 +1,19 @@
+.numero{
+    font-size: larger;
+    text-align:center;
+}
+
+.ok{
+    color: #00f;
+    text-align:center;
+  
+   
+
+.error{
+    color:#f00;
+}
+
+body{
+
+    text-align:center;
+}
